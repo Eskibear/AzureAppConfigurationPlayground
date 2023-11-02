@@ -1,0 +1,15 @@
+{
+  "name": "config-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/app-configuration": "^1.4.1",
+    "dotenv": "^16.3.1"
+  }
+}
